@@ -1,0 +1,284 @@
+{
+  "main": {
+    "id": "fb58b9fc1a3225f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "72e120bafc6d6d94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bf6ea68dc039caa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "云原生/Linux/概述和部署.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "概述和部署"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b756a146073e14bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "599373b32c64d69a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fb3ae56977eeb5e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "59653d1bcb53e677",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"excalidraw-plugin\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "54db5a8357092a63",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e1cc198404b99a37",
+    "type": "split",
+    "children": [
+      {
+        "id": "373d991c2677f2ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbda51e131aea2f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "项目/kivis-news/项目架构.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "项目架构 的反向链接列表"
+            }
+          },
+          {
+            "id": "803cb24601939687",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "编程语言/Java/01. Java基础.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "01. Java基础 的出链列表"
+            }
+          },
+          {
+            "id": "86c1a42fca71886f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "024cd9b4b41a39ff",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "2c07638455b9c27d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "编程语言/前端/CSS.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "CSS 的大纲"
+            }
+          },
+          {
+            "id": "fbdc5bbc69b3801c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "628898bee6b8b59e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "28e766500376ba67",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "云原生/Linux/概述和部署.md"
+              },
+              "icon": "lucide-info",
+              "title": "概述和部署的笔记属性"
+            }
+          },
+          {
+            "id": "d18bb58c978ff1e1",
+            "type": "leaf",
+            "state": {
+              "type": "opencode-view",
+              "state": {},
+              "icon": "opencode-logo",
+              "title": "OpenCode"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 412.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian42-brat:BRAT": false,
+      "opencode-obsidian:OpenCode": false
+    }
+  },
+  "active": "2fb3ae56977eeb5e",
+  "lastOpenFiles": [
+    "云原生/Linux/未命名.md",
+    "云原生/Linux/概述和部署.md",
+    "云原生/Linux/常用命令/磁盘管理.md",
+    "编程语言/Scala/scala_self_自类型.md",
+    "编程语言/Scala/多线程.md",
+    "编程语言/前端/CSS.md",
+    "编程语言/前端/JavaScript.md",
+    "开发工具/Git/Git命令.md",
+    "开发工具/Git/Git基础.md",
+    "编程语言/Python/并发编程/线程/ThreadLocal.md",
+    "编程语言/Java/11. 异常/11. 异常.md",
+    "编程语言/Java/01. Java基础/01. Java基础.md",
+    "网络/网络攻击.md",
+    "项目/Zeron",
+    "编程语言/前端/Thymeleaf.md",
+    "未命名.canvas",
+    "编程语言/前端/HTML.md",
+    "项目/kivis-news/项目架构.md",
+    "云原生/Docker/常用软件安装.md",
+    "项目/kivis-news",
+    "编程语言/Python/并发编程/进程.md",
+    "AI",
+    "编程语言/Python/并发编程/并发编程.md",
+    "编程语言/Java/14. 测试/JUnit.md",
+    "编程语言/Java/14. 测试/测试.md",
+    "数据库&中间件/MySQL/MySQL基础篇.md",
+    "数据库&中间件/Redis/管道.md",
+    "数据库&中间件/Redis/安装/安装.md",
+    "网络/网络协议/attachments/HTTP_031.jpg",
+    "网络/网络协议/HTTP/TLS_SSL/attachments/TLS_SSL_004.png",
+    "网络/网络协议/HTTP/TLS_SSL/attachments/TLS_SSL_003.png",
+    "网络/网络协议/HTTP/TLS_SSL/attachments/TLS_SSL_002.jpg",
+    "网络/网络协议/HTTP/TLS_SSL/attachments/TLS_SSL_001.png",
+    "网络/Web服务器/attachements/Web基本概念_002.png",
+    "网络/Web服务器/attachements/Web基本概念_001.png",
+    "网络/Web服务器/Web基本概念_002.png",
+    "网络/Web服务器/Web基本概念_001.png",
+    "网络/Web服务器/attachements/Tomcat_002.png",
+    "网络/Web服务器/attachements",
+    "网络/Web服务器/未命名文件夹",
+    "网络/网络协议/websocket/attachements",
+    "网络/网络协议/websocket/未命名文件夹",
+    "网络/网络协议/websocket/WebSocket.md",
+    "网络/网络协议/websocket",
+    "网络/网络协议/未命名文件夹",
+    "网络/网络协议/RPC/RPC.md",
+    "网络/网络协议/RPC/attachements"
+  ]
+}
