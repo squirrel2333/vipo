@@ -5,14 +5,14 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
-        "AI",
+        "编程语言",
+        "数据库&中间件",
+        "网络",
         "云原生",
         "开发工具",
-        "数据库&中间件",
-        "编程语言",
-        "网络",
         "软件开发",
-        "项目"
+        "项目",
+        "AI"
       ]
     },
     "AI": {
@@ -36,13 +36,13 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "概述.md",
+        "基本命令和操作.md",
+        "镜像.md",
+        "容器卷.md",
         "Dockerfile定制镜像.md",
         "attachments",
-        "基本命令和操作.md",
-        "容器卷.md",
-        "常用软件安装.md",
-        "概述.md",
-        "镜像.md"
+        "常用软件安装.md"
       ]
     },
     "云原生/Docker/Dockerfile定制镜像.md": {
@@ -2296,6 +2296,7 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "简介.md",
         "Redis_服务器.md",
         "Redis_脚本.md",
         "Redis_连接.md",
@@ -2309,7 +2310,6 @@
         "持久化",
         "数据类型",
         "数据类型.md",
-        "简介.md",
         "管道.md",
         "集群.md"
       ]
@@ -5410,22 +5410,22 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
-        "Django.md",
-        "IO",
-        "attachments",
-        "python3vs2.md",
-        "venv.md",
-        "函数",
-        "包.md",
-        "垃圾回收.md",
+        "简介",
         "基础",
         "容器",
+        "函数",
         "对象",
-        "并发编程",
-        "应用.md",
         "异常.md",
+        "并发编程",
+        "IO",
+        "应用.md",
         "模块",
-        "简介"
+        "包.md",
+        "垃圾回收.md",
+        "Django.md",
+        "python3vs2.md",
+        "venv.md",
+        "attachments"
       ]
     },
     "编程语言/Python/Django.md": {
@@ -5542,10 +5542,10 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "基础语法.md",
         "Number.md",
         "String.md",
         "attachments",
-        "基础语法.md",
         "数据类型.md",
         "流程.md",
         "编码.md",
@@ -7287,9 +7287,9 @@
       "sortOrder": "custom",
       "customOrder": [
         "用户权限.md",
-        "磁盘管理.md",
+        "账号管理.md",
         "系统相关.md",
-        "账号管理.md"
+        "磁盘管理.md"
       ]
     },
     "云原生/Linux/常用命令/用户权限.md": {

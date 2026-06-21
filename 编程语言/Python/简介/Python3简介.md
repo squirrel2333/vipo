@@ -34,5 +34,5 @@ $ python # Unix/Linux 或者 C:>python # Windows/DOS
 
 $ python script.py # Unix/Linux 或者 C:>python script.py # Windows/DOS
 
-**注意：**在执行脚本时，请检查脚本是否有可执行权限。
+**注意**: 在执行脚本时，请检查脚本是否有可执行权限。
 
