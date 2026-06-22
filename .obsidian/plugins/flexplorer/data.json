@@ -5,21 +5,14 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
+        "项目",
         "编程语言",
         "数据库&中间件",
         "网络",
         "云原生",
         "开发工具",
-        "软件开发",
-        "项目",
-        "AI"
+        "软件开发"
       ]
-    },
-    "AI": {
-      "isPinned": false,
-      "isHidden": false,
-      "sortOrder": "custom",
-      "customOrder": []
     },
     "云原生": {
       "isPinned": false,
@@ -2997,18 +2990,11 @@
       "isHidden": false,
       "sortOrder": "custom",
       "customOrder": [
-        "Go",
         "Java",
         "Python",
         "Scala",
         "前端"
       ]
-    },
-    "编程语言/Go": {
-      "isPinned": false,
-      "isHidden": false,
-      "sortOrder": "custom",
-      "customOrder": []
     },
     "编程语言/Java": {
       "isPinned": false,
@@ -3031,8 +3017,7 @@
         "14. 测试",
         "15. JVM",
         "16. JavaWeb",
-        "17. SSM",
-        "attachments"
+        "17. SSM"
       ]
     },
     "编程语言/Java/01. Java基础": {
@@ -5399,12 +5384,6 @@
       "isPinned": false,
       "isHidden": false
     },
-    "编程语言/Java/attachments": {
-      "isPinned": false,
-      "isHidden": false,
-      "sortOrder": "custom",
-      "customOrder": []
-    },
     "编程语言/Python": {
       "isPinned": false,
       "isHidden": false,
@@ -6167,7 +6146,6 @@
       "customOrder": [
         "HTTP",
         "RPC",
-        "attachments",
         "websocket"
       ]
     },
@@ -6626,12 +6604,6 @@
     "网络/网络协议/RPC/attachements/RPC_014.png": {
       "isPinned": false,
       "isHidden": false
-    },
-    "网络/网络协议/attachments": {
-      "isPinned": false,
-      "isHidden": false,
-      "sortOrder": "custom",
-      "customOrder": []
     },
     "网络/网络协议/websocket": {
       "isPinned": false,
@@ -7119,164 +7091,6 @@
       "isPinned": false,
       "isHidden": false
     },
-    "项目": {
-      "isPinned": false,
-      "isHidden": false,
-      "sortOrder": "custom",
-      "customOrder": [
-        "Ericsson",
-        "Zeron",
-        "kivis-news"
-      ]
-    },
-    "项目/Ericsson": {
-      "isPinned": false,
-      "isHidden": false,
-      "sortOrder": "custom",
-      "customOrder": [
-        "EWA@INTERNET.md",
-        "License控制.md",
-        "attachments",
-        "cli_mml.md",
-        "curl_命令获取proclog流.md",
-        "docker.md",
-        "dtg.md",
-        "eda1命令.md",
-        "git.md",
-        "helm.md",
-        "kafka_Cassandra_ldap.md",
-        "kubectl.md",
-        "mvn.md",
-        "sbt.md",
-        "发REST请求.md",
-        "培训网站.md",
-        "强制删除pod.md",
-        "无法删掉ns.md",
-        "简历.md",
-        "访问GUI.md",
-        "配网元.md",
-        "配置externalIP.md"
-      ]
-    },
-    "项目/Ericsson/EWA@INTERNET.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "项目/Ericsson/License控制.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "项目/Ericsson/attachments": {
-      "isPinned": false,
-      "isHidden": false,
-      "sortOrder": "custom",
-      "customOrder": [
-        "EWA@INTERNET_001.png",
-        "发REST请求_001.png"
-      ]
-    },
-    "项目/Ericsson/attachments/EWA@INTERNET_001.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "项目/Ericsson/attachments/发REST请求_001.png": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "项目/Ericsson/cli_mml.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "项目/Ericsson/curl_命令获取proclog流.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "项目/Ericsson/docker.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "项目/Ericsson/dtg.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "项目/Ericsson/eda1命令.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "项目/Ericsson/git.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "项目/Ericsson/helm.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "项目/Ericsson/kafka_Cassandra_ldap.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "项目/Ericsson/kubectl.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "项目/Ericsson/mvn.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "项目/Ericsson/sbt.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "项目/Ericsson/发REST请求.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "项目/Ericsson/培训网站.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "项目/Ericsson/强制删除pod.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "项目/Ericsson/无法删掉ns.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "项目/Ericsson/简历.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "项目/Ericsson/访问GUI.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "项目/Ericsson/配网元.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "项目/Ericsson/配置externalIP.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
-    "项目/Zeron": {
-      "isPinned": false,
-      "isHidden": false,
-      "sortOrder": "custom",
-      "customOrder": []
-    },
-    "项目/kivis-news": {
-      "isPinned": false,
-      "isHidden": false,
-      "sortOrder": "custom",
-      "customOrder": [
-        "项目架构.md"
-      ]
-    },
-    "项目/kivis-news/项目架构.md": {
-      "isPinned": false,
-      "isHidden": false
-    },
     "云原生/Linux/概述和部署.md": {
       "isPinned": false,
       "isHidden": false
@@ -7305,6 +7119,108 @@
       "isHidden": false
     },
     "云原生/Linux/常用命令/账号管理.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "项目": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Zeron"
+      ]
+    },
+    "项目/Zeron": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "TODO",
+        "Project",
+        "环境配置"
+      ]
+    },
+    "项目/Zeron/环境配置": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "配置VPN.md",
+        "attachments"
+      ]
+    },
+    "项目/Zeron/环境配置/attachments": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "Pasted image 20260618170025.png",
+        "Pasted image 20260618170001.png",
+        "Pasted image 20260618170021.png",
+        "Pasted image 20260618165935.png",
+        "Pasted image 20260618165845.png"
+      ]
+    },
+    "项目/Zeron/环境配置/配置VPN.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "项目/Zeron/环境配置/attachments/Pasted image 20260618165845.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "项目/Zeron/环境配置/attachments/Pasted image 20260618165935.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "项目/Zeron/环境配置/attachments/Pasted image 20260618170021.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "项目/Zeron/环境配置/attachments/Pasted image 20260618170001.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "项目/Zeron/环境配置/attachments/Pasted image 20260618170025.png": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "项目/Zeron/Project": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "ArgoWorkflow"
+      ]
+    },
+    "项目/Zeron/Project/ArgoWorkflow": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "部署.md",
+        "attachments"
+      ]
+    },
+    "项目/Zeron/Project/ArgoWorkflow/attachments": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": []
+    },
+    "项目/Zeron/Project/ArgoWorkflow/部署.md": {
+      "isPinned": false,
+      "isHidden": false
+    },
+    "项目/Zeron/TODO": {
+      "isPinned": false,
+      "isHidden": false,
+      "sortOrder": "custom",
+      "customOrder": [
+        "2026.06.md"
+      ]
+    },
+    "项目/Zeron/TODO/2026.06.md": {
       "isPinned": false,
       "isHidden": false
     }

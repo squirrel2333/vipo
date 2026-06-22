@@ -11,15 +11,14 @@
             "id": "3bf6ea68dc039caa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "编程语言/Java/01. Java基础/01. Java基础.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "aFile": "编程语言/Java/01. Java基础/01. Java基础.md",
+                "bFile": "编程语言/Java/01. Java基础/01. Java基础.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "01. Java基础"
+              "icon": "diff",
+              "title": "Diff: 01. Java基础  (Working Tree)"
             }
           }
         ]
@@ -54,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"excalidraw-plugin\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程语言/Java/01. Java基础/01. Java基础.md",
+                "file": "项目/Zeron/TODO/2026.06.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01. Java基础 的大纲"
+              "title": "2026.06 的大纲"
             }
           },
           {
@@ -191,11 +191,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "编程语言/Java/01. Java基础/01. Java基础.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "01. Java基础的笔记属性"
+              "title": "笔记属性"
             }
           },
           {
@@ -209,11 +207,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 412.5
+    "width": 435.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,10 +231,28 @@
   },
   "active": "3bf6ea68dc039caa",
   "lastOpenFiles": [
+    "项目/Zeron/TODO/2026.06.md",
+    "项目/Zeron/Project/ArgoWorkflow/部署.md",
+    "项目/Zeron/TODO",
+    "项目/Zeron/Project",
+    "项目/Zeron/环境配置/配置VPN.md",
+    "编程语言/Python/简介/Python3简介.md",
+    "编程语言/Java/01. Java基础/01. Java基础.md",
+    "项目/Zeron/环境配置/attachments/Pasted image 20260618170025.png",
+    "项目/Zeron/环境配置/attachments/Pasted image 20260618170001.png",
+    "项目/Zeron/环境配置/attachments/Pasted image 20260618170021.png",
+    "项目/Zeron/环境配置/attachments/Pasted image 20260618165935.png",
+    "项目/Zeron/环境配置/attachments/Pasted image 20260618165845.png",
+    "项目/Zeron/环境配置/attachments",
+    "项目/Zeron/环境配置",
+    "项目/Zeron/Project/ArgoWorkflow/attachments",
+    "项目/Zeron/Project/ArgoWorkflow",
+    "项目/Zeron/Infra",
+    "项目/Zeron",
+    "项目",
     "编程语言/Python/基础/基础语法.md",
     "编程语言/Python/基础/Number.md",
     "编程语言/Python/简介/Python解释器.md",
-    "编程语言/Python/简介/Python3简介.md",
     "编程语言/Python/venv.md",
     "编程语言/Python/应用.md",
     "云原生/Kubernetes/在pod里抓包.md",
@@ -249,7 +265,6 @@
     "数据库&中间件/Redis/简介.md",
     "数据库&中间件/Redis/Redis_服务器.md",
     "编程语言/Java/02. 数组/02. 数组.md",
-    "编程语言/Java/01. Java基础/01. Java基础.md",
     "编程语言/Java/01. Java基础/attachements/Java基础_001.png",
     "云原生/Linux/概述和部署.md",
     "云原生/Linux/常用命令/账号管理.md",
@@ -257,28 +272,11 @@
     "云原生/Linux/未命名.md",
     "云原生/Linux/常用命令/磁盘管理.md",
     "编程语言/Scala/scala_self_自类型.md",
-    "编程语言/Scala/多线程.md",
-    "编程语言/前端/CSS.md",
-    "编程语言/前端/JavaScript.md",
     "项目/Zeron",
     "未命名.canvas",
-    "项目/kivis-news",
-    "AI",
     "网络/网络协议/attachments/HTTP_031.jpg",
     "网络/网络协议/HTTP/TLS_SSL/attachments/TLS_SSL_004.png",
     "网络/网络协议/HTTP/TLS_SSL/attachments/TLS_SSL_003.png",
-    "网络/网络协议/HTTP/TLS_SSL/attachments/TLS_SSL_002.jpg",
-    "网络/网络协议/HTTP/TLS_SSL/attachments/TLS_SSL_001.png",
-    "网络/Web服务器/attachements/Web基本概念_002.png",
-    "网络/Web服务器/attachements/Web基本概念_001.png",
-    "网络/Web服务器/Web基本概念_002.png",
-    "网络/Web服务器/Web基本概念_001.png",
-    "网络/Web服务器/attachements",
-    "网络/Web服务器/未命名文件夹",
-    "网络/网络协议/websocket/attachements",
-    "网络/网络协议/websocket/未命名文件夹",
-    "网络/网络协议/websocket",
-    "网络/网络协议/未命名文件夹",
-    "网络/网络协议/RPC/attachements"
+    "网络/网络协议/HTTP/TLS_SSL/attachments/TLS_SSL_002.jpg"
   ]
 }
