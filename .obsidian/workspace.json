@@ -11,15 +11,14 @@
             "id": "3bf6ea68dc039caa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "编程语言/Java/01. Java基础/01. Java基础.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "aFile": ".obsidian/plugins/flexplorer/manifest.json",
+                "bFile": ".obsidian/plugins/flexplorer/manifest.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "01. Java基础"
+              "icon": "diff",
+              "title": "Diff: manifest.json  (Working Tree)"
             }
           }
         ]
@@ -157,13 +156,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程语言/Java/01. Java基础/01. Java基础.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01. Java基础 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -191,15 +189,13 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "编程语言/Java/01. Java基础/01. Java基础.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "01. Java基础的笔记属性"
+              "title": "笔记属性"
             }
           },
           {
-            "id": "d18bb58c978ff1e1",
+            "id": "23c69d847a7e6e6e",
             "type": "leaf",
             "state": {
               "type": "opencode-view",
@@ -209,11 +205,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 412.5
+    "width": 285.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,8 +227,9 @@
       "opencode-obsidian:OpenCode": false
     }
   },
-  "active": "3bf6ea68dc039caa",
+  "active": "628898bee6b8b59e",
   "lastOpenFiles": [
+    "编程语言/Java/01. Java基础/01. Java基础.md",
     "编程语言/Python/基础/基础语法.md",
     "编程语言/Python/基础/Number.md",
     "编程语言/Python/简介/Python解释器.md",
@@ -249,7 +246,6 @@
     "数据库&中间件/Redis/简介.md",
     "数据库&中间件/Redis/Redis_服务器.md",
     "编程语言/Java/02. 数组/02. 数组.md",
-    "编程语言/Java/01. Java基础/01. Java基础.md",
     "编程语言/Java/01. Java基础/attachements/Java基础_001.png",
     "云原生/Linux/概述和部署.md",
     "云原生/Linux/常用命令/账号管理.md",
