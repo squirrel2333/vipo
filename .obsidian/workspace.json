@@ -11,14 +11,15 @@
             "id": "3bf6ea68dc039caa",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/flexplorer/manifest.json",
-                "bFile": ".obsidian/plugins/flexplorer/manifest.json",
-                "aRef": ""
+                "file": "AI Infra/Platforms/Evaluation Platform.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "diff",
-              "title": "Diff: manifest.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Evaluation Platform"
             }
           }
         ]
@@ -156,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "AI Infra/Platforms/Evaluation Platform.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Evaluation Platform 的大纲"
             }
           },
           {
@@ -205,11 +207,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 418.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,39 +229,46 @@
       "opencode-obsidian:OpenCode": false
     }
   },
-  "active": "628898bee6b8b59e",
+  "active": "3bf6ea68dc039caa",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "编程语言/Java/01. Java基础/01. Java基础.md",
-    "编程语言/Python/基础/基础语法.md",
-    "编程语言/Python/基础/Number.md",
-    "编程语言/Python/简介/Python解释器.md",
-    "编程语言/Python/简介/Python3简介.md",
-    "编程语言/Python/venv.md",
-    "编程语言/Python/应用.md",
-    "云原生/Kubernetes/在pod里抓包.md",
-    "云原生/Kubernetes/Helm.md",
-    "云原生/Docker/镜像.md",
-    "云原生/Docker/基本命令和操作.md",
-    "云原生/Docker/概述.md",
-    "云原生/Docker/常用软件安装.md",
-    "云原生/Docker/Dockerfile定制镜像.md",
-    "数据库&中间件/Redis/简介.md",
-    "数据库&中间件/Redis/Redis_服务器.md",
-    "编程语言/Java/02. 数组/02. 数组.md",
+    "AI Infra/Modules/Workflow Engine/Workflow Engine.md",
+    "AI Infra/Learning Roadmap.md",
+    "AI Infra/Modules/Feature Store/Feast/Feast.md",
+    "AI Infra/Modules/Data Quality/Great Expectations/Great Expectations.md",
+    "AI Infra/Modules/Storage/Ceph/Ceph.md",
+    "AI Infra/Modules/Storage/MinIO/MinIO.md",
+    "AI Infra/Modules/Observability/Jaeger/Jaeger.md",
+    "AI Infra/Modules/Observability/Tempo/Tempo.md",
+    "AI Infra/Modules/Observability/Loki/Loki.md",
+    "AI Infra/Modules/Observability/OpenTelemetry/OpenTelemetry.md",
+    "AI Infra/Modules/Observability/Grafana/Grafana.md",
+    "AI Infra/Modules/Observability/Prometheus/Prometheus.md",
+    "AI Infra/Modules/Traffic & Autoscaling/Istio/Istio.md",
+    "AI Infra/Modules/Traffic & Autoscaling/KEDA/KEDA.md",
+    "AI Infra/Modules/Serving Runtime/KServe/KServe.md",
+    "AI Infra/Modules/Serving Runtime/Ray Serve/Ray Serve.md",
+    "AI Infra/Modules/Serving Runtime/TensorRT-LLM/TensorRT-LLM.md",
+    "AI Infra/Modules/Serving Runtime/Triton/Triton.md",
+    "AI Infra/Modules/Serving Runtime/SGLang/SGLang.md",
+    "AI Infra/Modules/Serving Runtime/vLLM/vLLM.md",
+    "AI Infra/Modules/Experiment Tracking/TensorBoard/TensorBoard.md",
+    "AI Infra/Modules/Experiment Tracking/Weights & Biases/Weights & Biases.md",
+    "AI Infra/Modules/Experiment Tracking/MLflow/MLflow.md",
+    "AI Infra/Modules/Metadata & Lineage/ML Metadata/ML Metadata.md",
+    "AI Infra/Modules/Metadata & Lineage/OpenLineage/OpenLineage.md",
+    "AI Infra/Modules/Dataset Management/Hudi/Hudi.md",
+    "AI Infra/Modules/Workflow Engine/Temporal",
+    "AI Infra/Modules/Workflow Engine/Kubeflow Pipelines",
+    "AI Infra/Modules/Workflow Engine/Flyte",
+    "AI Infra/Modules/Workflow Engine/Argo Events",
+    "AI Infra/Modules/Workflow Engine/Argo Workflows",
+    "AI Infra/Modules/Workflow Engine/Airflow",
+    "AI Infra/Modules/Traffic & Autoscaling/Istio",
+    "AI Infra/Modules/Traffic & Autoscaling/KEDA",
+    "AI Infra/Modules/Storage/MinIO",
+    "AI Infra/Modules/Storage/Ceph",
     "编程语言/Java/01. Java基础/attachements/Java基础_001.png",
-    "云原生/Linux/概述和部署.md",
-    "云原生/Linux/常用命令/账号管理.md",
-    "云原生/Linux/常用命令/用户权限.md",
-    "云原生/Linux/未命名.md",
-    "云原生/Linux/常用命令/磁盘管理.md",
-    "编程语言/Scala/scala_self_自类型.md",
-    "编程语言/Scala/多线程.md",
-    "编程语言/前端/CSS.md",
-    "项目/Zeron",
     "未命名.canvas",
-    "项目/kivis-news",
-    "AI",
     "网络/网络协议/attachments/HTTP_031.jpg",
     "网络/网络协议/HTTP/TLS_SSL/attachments/TLS_SSL_004.png",
     "网络/网络协议/HTTP/TLS_SSL/attachments/TLS_SSL_003.png",
@@ -268,13 +277,6 @@
     "网络/Web服务器/attachements/Web基本概念_002.png",
     "网络/Web服务器/attachements/Web基本概念_001.png",
     "网络/Web服务器/Web基本概念_002.png",
-    "网络/Web服务器/Web基本概念_001.png",
-    "网络/Web服务器/attachements",
-    "网络/Web服务器/未命名文件夹",
-    "网络/网络协议/websocket/attachements",
-    "网络/网络协议/websocket/未命名文件夹",
-    "网络/网络协议/websocket",
-    "网络/网络协议/未命名文件夹",
-    "网络/网络协议/RPC/attachements"
+    "网络/Web服务器/Web基本概念_001.png"
   ]
 }
